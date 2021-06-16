@@ -28,5 +28,5 @@ If you want to contact me, please leave me a message!
 
 #####  ⚒ Tools 🛠
 
-<img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/> <img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/><img alt="Pycharm" src ="https://img.shields.io/badge/Pycharm-000000.svg?&style=for-the-badge&logo=Pycharm&logoColor=white"/> <img alt="RStudio" src ="https://img.shields.io/badge/RStudio-75AADB.svg?&style=for-the-badge&logo=RStudio&logoColor=white"/>
+<img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/> <img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> <img alt="Pycharm" src ="https://img.shields.io/badge/Pycharm-000000.svg?&style=for-the-badge&logo=Pycharm&logoColor=white"/> <img alt="RStudio" src ="https://img.shields.io/badge/RStudio-75AADB.svg?&style=for-the-badge&logo=RStudio&logoColor=white"/>
 
