@@ -1,20 +1,14 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparksimis&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Today+Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 ### Hi there! 🧘‍♀️
 
-I am SeonIk Park who is interested in **`Data Science & Data-Analyst`** from South Korea.
-
-If you want to contact me, please leave me a message!  
+**I am SeonIk Park who is interested in `Data Science & Data-Analyst`from South Korea.**
 
 
-
- 👇 👇
-
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ikstagram95/)](https://www.instagram.com/ikstagram95/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parksimis@gmail.com)](mailto:parksimis@gmail.com)  
-
- 
 
 #### 💪 Skills👊
+
+**I've used at least once**
 
 ##### 🆎 Platforms & Languages
 
@@ -29,4 +23,12 @@ If you want to contact me, please leave me a message!
 #####  ⚒ Tools 🛠
 
 <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/> <img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> <img alt="Pycharm" src ="https://img.shields.io/badge/Pycharm-000000.svg?&style=for-the-badge&logo=Pycharm&logoColor=white"/> <img alt="RStudio" src ="https://img.shields.io/badge/RStudio-75AADB.svg?&style=for-the-badge&logo=RStudio&logoColor=white"/>
+
+
+
+If you want to contact me, please leave me a message!  
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparksimis&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ikstagram95/)](https://www.instagram.com/ikstagram95/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parksimis@gmail.com)](mailto:parksimis@gmail.com)  
+
+ 
 
